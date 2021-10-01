@@ -18,6 +18,5 @@ function factorialize(num) {
       r=r*i    
     }  
     return r;
-  }
+  } 
   
-  factorialize(5);
